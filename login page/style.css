@@ -1,0 +1,65 @@
+/* Dark Background */
+body {
+  background-color: #a70c5e;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+}
+
+/* Container */
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+}
+
+/* Card Styling */
+.login-card {
+  background: rgba(61, 5, 72, 0.95);
+  backdrop-filter: blur(8px);
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+  padding: 25px;
+}
+
+/* Headings */
+.login-card h2 {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #4e54c8;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #3e43a1;
+}
+
+/* Links */
+a {
+  color: #4e54c8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* White Sign Up Link */
+.login-card a {
+  color: #ffffff; /* White */
+  text-decoration: none;
+}
+
+.login-card a:hover {
+  color: #4e54c8; /* Purple on hover */
+  text-decoration: underline;
+}
