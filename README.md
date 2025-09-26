@@ -59,3 +59,7 @@
 <img src="assets/screenshots/signup.png"> 
 
 ---
+
+## 🌟 Show Your Support
+
+If you like this project, give it a ⭐ and share it with others!
