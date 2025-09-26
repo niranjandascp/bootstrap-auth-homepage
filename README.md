@@ -7,17 +7,19 @@
 🚀 A fully responsive and modern authentication UI built with HTML, CSS, JavaScript, and Bootstrap.  
 
 ## ✨ Highlights
-- 🔑 Login & signup on a single page  
-- 📱 Mobile-first responsive design  
-- 🎨 Modern styles with hover effects    
+- **Sign-In Page** – Clean and user-friendly login form.
+- **Sign-Up Page** – Simple registration form for new users.
+- **Home Page** – Welcoming dashboard/home page after login.
+- **Responsive Design** – Mobile-friendly with Bootstrap 5 grid system.
+- **Easy Customization** – Modify colors, layout, and components easily.
 
 
 ---
 
 ## 🧰 Tech Used
 - HTML5  
-- CSS3  
-- JavaScript 
+- CSS3   
+- Javascript
 - Bootstrap 5 
 ---
 
