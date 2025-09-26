@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/niranjandascp/bootstrap-outh-homepage
+   git clone https://github.com/niranjandascp/bootstrap-auth-homepage
    cd bootstrap-auth-homepage
    code .
 2. Open the folder in VS Code
