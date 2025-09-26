@@ -23,13 +23,13 @@
 
 # 🔗 Links
 
-1. GitHub Repository: [ bootstrap-auth-homepage Repo](https://github.com/niranjandascp/bootstrap-auth-homepage.git)
+1. GitHub Repository: [ bootstrap-auth-homepage Repo](https://github.com/niranjandascp/bootstrap-auth-homepage)
 ---
 ## 📂 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/niranjandascp/bootstrap-auth-homepage
+   git clone https://github.com/niranjandascp/bootstrap-auth-homepage.git
    cd bootstrap-auth-homepage
    code .
 2. Open the folder in VS Code
